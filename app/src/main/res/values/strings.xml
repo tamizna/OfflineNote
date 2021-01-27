@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OfflineNote</string>
+    <string name="settings">Settings</string>
+    <string name="judul_folder">Judul Folder</string>
+    <string name="nama_folder">Nama Folder</string>
+    <string name="buat_folder">Buat Folder</string>
+    <string name="judul_note">Judul Note</string>
+    <string name="simpan">Simpan</string>
+    <string name="isi_note">Isi Note</string>
+    <string name="edit_nama_folder">Edit Nama Folder</string>
+    <string name="hapus_folder">Hapus Folder</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="hapus_note">Hapus Note</string>
+    <string name="atur_pin_untuk_masuk">Atur PIN untuk masuk</string>
+    <string name="masukkan_pin">Masukkan Pin</string>
+    <string name="login">Login</string>
+</resources>
